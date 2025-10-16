@@ -109,13 +109,13 @@ Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Class
 
 <!-- 12 -->
 <div class="paper-box-text" markdown="1">
-Smart home system based on STC89C52. Liang Qin, **Yu Sha**, Yumeng Xu (*Practical Electronics* | 2018 | [Paper](http://www.cqvip.com/qk/97913x/201803/674492691.html))
+Smart home system based on STC89C52. Liang Qin, **Yu Sha**, Yumeng Xu (*Practical Electronics* | 2018 | [Paper](https://www.zhangqiaokeyan.com/academic-journal-cn_practical-electronics_thesis/0201235334678.html))
 </div>
 
 
 <!-- 13 -->
 <div class="paper-box-text" markdown="1">
-Study on operation analysis and decision making for sharing-bicycles. Hong Zhang, Dixin Zhou, Chuanqi Cheng, **Yu Sha** (*Big Data Research* | 2019 | [Paper](http://www.infocomm-journal.com/bdr/CN/Y2019/V5/I1/87))
+Study on operation analysis and decision making for sharing-bicycles. Hong Zhang, Dixin Zhou, Chuanqi Cheng, **Yu Sha** (*Big Data Research* | 2019 | [Paper](https://qikan.cqvip.com/Qikan/Article/Detail?id=6100245874))
 </div>
 
 ### 💡 Patents:
