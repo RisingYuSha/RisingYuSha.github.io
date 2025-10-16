@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems
+Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-6-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
 
@@ -17,7 +17,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems
+Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
 
 Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou
 
@@ -30,7 +30,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space
+Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-11-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
 
@@ -43,7 +43,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-35-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
 
@@ -56,7 +56,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering
+An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-35-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou  
 
@@ -69,7 +69,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Prioritization Hindsight Experience based on Spatial Position Attention for Robots
+Prioritization Hindsight Experience based on Spatial Position Attention for Robots <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
 
@@ -80,31 +80,31 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 
 <!-- 7 -->
 <div class='paper-box-text' markdown="1">
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**Frontiers in Neuroscience** | **JCR: Q1**| **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience)) 
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**Frontiers in Neuroscience** | **JCR: Q1**| **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-3-blue" alt="Citations"></a>) 
 </div>
 
 
 
 <!-- 8 -->
 <div class='paper-box-text' markdown="1">
-Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors))  
+Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)  
 </div>
 
 
 
 <!-- 9 -->
 <div class='paper-box-text' markdown="1">
-Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **EI** | [Paper](https://link.springer.com/journal/11633))
+Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **EI** | [Paper](https://link.springer.com/journal/11633) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>)
 </div>
 
 <!-- 10 -->
 <div class='paper-box-text' markdown="1">
-A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification))
+A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-9-blue" alt="Citations"></a>)
 </div>
 
 <!-- 11 -->
 <div class="paper-box-text" markdown="1">
-Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification))
+Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
 </div>
 
 <!-- 12 -->
