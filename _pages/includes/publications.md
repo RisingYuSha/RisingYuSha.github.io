@@ -94,7 +94,7 @@ Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms ut
 
 <!-- 9 -->
 <div class='paper-box-text' markdown="1">
-Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **EI** | [Paper](https://link.springer.com/journal/11633) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>)
+Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **EI** | [Paper](https://link.springer.com/journal/11633)
 </div>
 
 <!-- 10 -->
