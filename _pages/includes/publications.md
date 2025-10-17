@@ -80,14 +80,14 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 
 <!-- 7 -->
 <div class='paper-box-text' markdown="1">
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**Frontiers in Neuroscience** | **JCR: Q1**| **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-3-blue" alt="Citations"></a>) 
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**Frontiers in Neuroscience** | **JCR: Q1**| **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-3-blue" alt="Citations"></a>) 
 </div>
 
 
 
 <!-- 8 -->
 <div class='paper-box-text' markdown="1">
-Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)  
+Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)  
 </div>
 
 
@@ -99,12 +99,12 @@ Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mi
 
 <!-- 10 -->
 <div class='paper-box-text' markdown="1">
-A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-9-blue" alt="Citations"></a>)
+A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-9-blue" alt="Citations"></a>)
 </div>
 
 <!-- 11 -->
 <div class="paper-box-text" markdown="1">
-Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
+Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
 </div>
 
 <!-- 12 -->
