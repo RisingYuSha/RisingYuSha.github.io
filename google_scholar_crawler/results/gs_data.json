@@ -15,26 +15,10 @@
     "AI for Industry/Science",
     "Physics-Informed ML/DL"
   ],
-  "email_domain": "@cuhk.edu.cn",
+  "email_domain": "@-",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 109,
+  "citedby": 108,
   "publications": [
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering",
-        "pub_year": "2022",
-        "citation": "Measurement 192, 110897, 2022"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 35,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
-      "cites_id": [
-        "15759614120627251174"
-      ]
-    },
     {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -49,6 +33,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering",
+        "pub_year": "2022",
+        "citation": "Measurement 192, 110897, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
+      "cites_id": [
+        "15759614120627251174"
       ]
     },
     {
@@ -188,7 +188,7 @@
       "num_citations": 0
     }
   ],
-  "citedby5y": 109,
+  "citedby5y": 108,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -198,6 +198,6 @@
     "2022": 16,
     "2023": 26,
     "2024": 38,
-    "2025": 27
+    "2025": 26
   }
 }
