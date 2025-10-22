@@ -141,7 +141,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:bEWYMUwI8FkC",
-      "num_citations": 1,
+      "num_citations": 2,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10405927978910022125",
       "cites_id": [
         "10405927978910022125"
@@ -188,7 +188,7 @@
       "num_citations": 0
     }
   ],
-  "citedby5y": 110,
+  "citedby5y": 111,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
