@@ -1,5 +1,8 @@
 # 🏆 Honors and Awards
 
+### The Chinese University of Hong Kong, ShenZhen (CUHK-SZ)
+- *2025*, Best Oral Presentation Award, ICLCSE 2025  
+
 ### Xidian University (XDU)
 - *2025*, Outstanding Graduate Doctoral Student, XDU  
 - *2022*, Outstanding Doctoral Students, XDU  
