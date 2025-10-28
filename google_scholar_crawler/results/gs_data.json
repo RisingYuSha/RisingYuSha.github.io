@@ -61,7 +61,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:-f6ydRqryjwC",
-      "num_citations": 11,
+      "num_citations": 12,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2686912758430904394",
       "cites_id": [
         "2686912758430904394"
@@ -188,7 +188,7 @@
       "num_citations": 0
     }
   ],
-  "citedby5y": 111,
+  "citedby5y": 112,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -198,6 +198,6 @@
     "2022": 16,
     "2023": 26,
     "2024": 38,
-    "2025": 29
+    "2025": 30
   }
 }
