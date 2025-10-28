@@ -22,11 +22,11 @@ jobs:
       - name: Install scholarly
         run: pip install scholarly
 
-      - name: Run Scholar crawler
-        run: |
-          cd google_scholar_crawler  # 进入子目录
-          python update_scholar.py    # 执行脚本
-          cd ..                      # 返回根目录
+      # - name: Run Scholar crawler
+      #   run: |
+      #     cd google_scholar_crawler  # 进入子目录
+      #     python update_scholar.py    # 执行脚本
+      #     cd ..                      # 返回根目录
           
       - name: Update citations in publications
         run: |
