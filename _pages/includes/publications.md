@@ -69,7 +69,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Prioritization Hindsight Experience based on Spatial Position Attention for Robots<a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>  
+Prioritization Hindsight Experience based on Spatial Position Attention for Robots <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>  
 
 Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
 
