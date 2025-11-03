@@ -11,7 +11,7 @@
 
 ### Lanzhou University of Technology (LUT)
 - LoRa based non-contact life detection system  
-   *National Undergraduate Innovation and Entrepreneurship Training Project* | **Completed** | **Project Participant**
+   *National Undergraduate Innovation and Entrepreneurship Training Project* | **Project Participant** | **Completed**
 - Evaluation of students' comprehensive ability and program design based on fuzzy theory  
    *LUT Innovation and Entrepreneurship Training Program* | **Project Leader** | **Completed**
 - Research on the cultivation of college students' creative ability by mathematical modeling competition  
