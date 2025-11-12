@@ -17,8 +17,24 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 113,
+  "citedby": 115,
   "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals",
+        "pub_year": "2022",
+        "citation": "Engineering Applications of Artificial Intelligence 113, 104904, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
+      "num_citations": 37,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
+      "cites_id": [
+        "5426359368183646132"
+      ]
+    },
     {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -33,22 +49,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals",
-        "pub_year": "2022",
-        "citation": "Engineering Applications of Artificial Intelligence 113, 104904, 2022"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 36,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
-      "cites_id": [
-        "5426359368183646132"
       ]
     },
     {
@@ -125,7 +125,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 3,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
       "cites_id": [
         "15020320763816259828"
@@ -188,7 +188,7 @@
       "num_citations": 0
     }
   ],
-  "citedby5y": 113,
+  "citedby5y": 115,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 3,
@@ -198,6 +198,6 @@
     "2022": 16,
     "2023": 26,
     "2024": 38,
-    "2025": 31
+    "2025": 33
   }
 }
