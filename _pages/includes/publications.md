@@ -6,7 +6,7 @@
 
 A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems
 
-**Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou
+**Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
 
 **ArxiV 2025** | [Paper](https://arxiv.org/abs/2511.15497) 
 </div>
@@ -19,7 +19,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 
 Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-6-blue" alt="Citations"></a>
 
-**Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
+**Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
 **SIGKDD 2024** | **CCF: A** | [Paper](https://doi.org/10.1145/3637528.3671610) | [Code](https://github.com/CavitationDetection/HKG)
 </div>
@@ -32,7 +32,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 
 Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
 
-Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou
+Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
 
 **Expert Systems with Applications** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
 </div>
@@ -45,7 +45,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 
 Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-12-blue" alt="Citations"></a>
 
-**Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
+**Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
 **SIGKDD 2022** | **CCF: A** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
 </div>
@@ -58,7 +58,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 
 A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-37-blue" alt="Citations"></a>
 
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou 
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
 **Engineering Applications of Artificial Intelligence** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
 </div>
@@ -71,7 +71,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 
 An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-36-blue" alt="Citations"></a>
 
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou  
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
 
 **Measurement** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
 </div>
