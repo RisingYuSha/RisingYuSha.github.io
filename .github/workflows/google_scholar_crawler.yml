@@ -20,9 +20,11 @@ jobs:
           python-version: "3.x"
 
       - name: Install scholarly
-        run: pip install scholarly
+        run: pip install scholarly request
 
-      - name: Run Scholar crawler
+      - name: Run Scholar crawler with SerpAPI
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
           cd google_scholar_crawler  # 进入子目录
           python update_scholar.py    # 执行脚本
