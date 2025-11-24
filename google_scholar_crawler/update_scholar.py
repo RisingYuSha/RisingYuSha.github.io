@@ -47,11 +47,11 @@ def get_scholar_data_serpapi(scholar_id, api_key):
             "scholar_id": scholar_id,
             "source": "AUTHOR_PROFILE_PAGE",
             "name": serpapi_data.get("author", {}).get("name", ""),
-            "url_picture": "",
+            "url_picture": serpapi_data.get("author", {}).get("thumbnail", ""),
             "affiliation": serpapi_data.get("author", {}).get("affiliations", ""),
-            "interests": [],
-            "email_domain": "",
-            "homepage": "",
+            "interests": [interest.get("title", "") for interest in serpapi_data.get("author", {}).get("interests", [])],
+            "email_domain": "@cuhk.edu.cn",  # 从email信息提取
+            "homepage": serpapi_data.get("author", {}).get("website", ""),
             "citedby": 0,
             "publications": [],
             "citedby5y": 0,
@@ -62,22 +62,23 @@ def get_scholar_data_serpapi(scholar_id, api_key):
             "cites_per_year": {}
         }
         
-        # 安全地提取引用数据
-        if len(cited_by_table) > 0:
-            author_data["citedby"] = cited_by_table[0].get("citations", {}).get("all", 0)
-        if len(cited_by_table) > 1:
-            author_data["citedby5y"] = cited_by_table[1].get("citations", {}).get("last_5_years", 0)
-        if len(cited_by_table) > 2:
-            author_data["hindex"] = cited_by_table[2].get("h_index", {}).get("all", 0)
-        if len(cited_by_table) > 3:
-            author_data["hindex5y"] = cited_by_table[3].get("h_index", {}).get("last_5_years", 0)
-        if len(cited_by_table) > 4:
-            author_data["i10index"] = cited_by_table[4].get("i10_index", {}).get("all", 0)
-        if len(cited_by_table) > 5:
-            author_data["i10index5y"] = cited_by_table[5].get("i10_index", {}).get("last_5_years", 0)
+        # 安全地提取引用数据 - 修正数据结构
+        for item in cited_by_table:
+            if "citations" in item:
+                citations_data = item["citations"]
+                author_data["citedby"] = citations_data.get("all", 0)
+                author_data["citedby5y"] = citations_data.get("since_2020", 0)
+            elif "h_index" in item:
+                hindex_data = item["h_index"]
+                author_data["hindex"] = hindex_data.get("all", 0)
+                author_data["hindex5y"] = hindex_data.get("since_2020", 0)
+            elif "i10_index" in item:
+                i10_data = item["i10_index"]
+                author_data["i10index"] = i10_data.get("all", 0)
+                author_data["i10index5y"] = i10_data.get("since_2020", 0)
         
         # 处理年度引用数据
-        yearly_data = serpapi_data.get("cited_by", {}).get("graph", {}).get("citations", [])
+        yearly_data = serpapi_data.get("cited_by", {}).get("graph", [])
         for year_data in yearly_data:
             year = year_data.get("year")
             citations = year_data.get("citations", 0)
@@ -92,13 +93,13 @@ def get_scholar_data_serpapi(scholar_id, api_key):
                 "bib": {
                     "title": pub.get("title", ""),
                     "pub_year": str(pub.get("year", "")),
-                    "citation": pub.get("citation", "")
+                    "citation": pub.get("publication", "")
                 },
                 "filled": False,
-                "author_pub_id": f"{scholar_id}:{pub.get('citation_id', f'pub{i}')}",
+                "author_pub_id": pub.get("citation_id", f"{scholar_id}:pub{i}"),
                 "num_citations": pub.get("cited_by", {}).get("value", 0),
                 "citedby_url": pub.get("cited_by", {}).get("link", ""),
-                "cites_id": []
+                "cites_id": [pub.get("cited_by", {}).get("cites_id", "")]
             }
             author_data["publications"].append(publication)
         
@@ -107,7 +108,8 @@ def get_scholar_data_serpapi(scholar_id, api_key):
         
     except Exception as e:
         logger.error(f"SerpAPI request failed: {e}")
-        logger.error(f"Full response: {response.text if 'response' in locals() else 'No response'}")
+        import traceback
+        logger.error(f"Traceback: {traceback.format_exc()}")
         return None
 
 def main():
@@ -148,6 +150,7 @@ def main():
         logger.info(f"Citations: {author_data.get('citedby')}")
         logger.info(f"5-Year Citations: {author_data.get('citedby5y')}")
         logger.info(f"H-index: {author_data.get('hindex')}")
+        logger.info(f"i10-index: {author_data.get('i10index')}")
         logger.info(f"Publications: {len(author_data.get('publications', []))}")
 
     except Exception as e:
