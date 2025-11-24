@@ -1,7 +1,7 @@
 # 📚 Publications
 ### 📝 Papers:
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis
