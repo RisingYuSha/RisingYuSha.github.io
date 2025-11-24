@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 def main():
     try:
         # 直接硬编码你的 Google Scholar ID（替换 YOUR_SCHOLAR_ID）
-        SCHOLAR_ID = "e5ng8m0AAAAJ"  # 例如 "e5ng8m0AAAAJ"
+        SCHOLAR_ID = "e5ng8m0AAAAJ&hl=zh-CN"  # 例如 "e5ng8m0AAAAJ"
         if not SCHOLAR_ID:
             raise ValueError("Google Scholar ID 未设置")
 
