@@ -41,7 +41,7 @@ if match:
                 # ① 有图片（非 Citation Badge）
                 if re.search(r'<img(?! src="https://img\.shields\.io/badge/Citations)', text_after):
                     text_after = badge_html_plain + " " + text_after
-                # ② Paper + Code → 插在 Code后并加" | "
+                # ② Paper + Code → 插在 Code后并加" | "，前面加空格
                 elif re.search(r'\| \[Paper\]', text_after) and re.search(r'\| \[Code\]', text_after):
                     text_after = re.sub(
                         r'(\| \[Code\]\([^)]+\))',
@@ -49,7 +49,7 @@ if match:
                         text_after,
                         count=1
                     )
-                # ③ 只有 Paper → 插在 Paper后并加" | "
+                # ③ 只有 Paper → 插在 Paper后并加" | "，前面加空格
                 elif re.search(r'\| \[Paper\]', text_after):
                     text_after = re.sub(
                         r'(\| \[Paper\]\([^)]+\))',
@@ -57,9 +57,9 @@ if match:
                         text_after,
                         count=1
                     )
-                # ④ 默认 → 标题后
+                # ④ 默认 → 标题后加空格
                 else:
-                    text_after = badge_html_plain + " " + text_after
+                    text_after = " " + badge_html_plain + text_after  # 在标题后加空格
 
             return m.group(1) + text_after
 
