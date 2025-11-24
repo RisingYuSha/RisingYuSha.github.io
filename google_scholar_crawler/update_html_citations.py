@@ -5,11 +5,15 @@ import re
 with open("results/gs_data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# 2. 构建 标题 → 引用数映射（忽略大小写）
-citation_map = {
-    pub["bib"]["title"].strip().lower(): int(pub.get("num_citations", 0))
-    for pub in data.get("publications", [])
-}
+# 2. 构建 标题 → 引用数映射（忽略大小写），处理 None 值
+citation_map = {}
+for pub in data.get("publications", []):
+    title = pub["bib"]["title"].strip().lower()
+    num_citations = pub.get("num_citations", 0)
+    # 处理 None 值，将其转换为 0
+    if num_citations is None:
+        num_citations = 0
+    citation_map[title] = int(num_citations)
 
 file_path = "../_pages/includes/publications.md"
 with open(file_path, "r", encoding="utf-8") as f:
