@@ -20,7 +20,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install scholarly
-        run: pip install scholarly request
+        run: pip install scholarly requests
 
       - name: Run Scholar crawler with SerpAPI
         env:
