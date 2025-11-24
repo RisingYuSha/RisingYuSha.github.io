@@ -87,22 +87,6 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Deep learning-based small magnitude earthquake detection and seismic phase classification",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2204.02870, 2022"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:L8Ckcad2t8MC",
-      "num_citations": 8,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14636330397915838976",
-      "cites_id": [
-        "14636330397915838976"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
         "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
         "pub_year": "2024",
         "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
@@ -113,6 +97,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
       "cites_id": [
         "2238873371371914539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep learning-based small magnitude earthquake detection and seismic phase classification",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2204.02870, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14636330397915838976",
+      "cites_id": [
+        "14636330397915838976"
       ]
     },
     {
@@ -173,7 +173,11 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:TFP_iSt0sucC",
-      "num_citations": 1
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6863489105225593814",
+      "cites_id": [
+        "6863489105225593814"
+      ]
     },
     {
       "container_type": "Publication",
@@ -185,7 +189,27 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:TQgYirikUcIC",
-      "num_citations": 1
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10622308389860480689",
+      "cites_id": [
+        "10622308389860480689"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2511.15497, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:JV2RwH3_ST0C",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
     }
   ],
   "citedby5y": 129,

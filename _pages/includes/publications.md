@@ -17,7 +17,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems
+A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems<a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a> 
 
 **Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
 
