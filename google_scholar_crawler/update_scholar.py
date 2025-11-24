@@ -29,6 +29,12 @@ def get_scholar_data_serpapi(scholar_id, api_key):
         response.raise_for_status()
         serpapi_data = response.json()
         
+        logger.info(f"SerpAPI response keys: {list(serpapi_data.keys())}")
+        
+        # 安全地提取数据
+        cited_by_table = serpapi_data.get("cited_by", {}).get("table", [])
+        logger.info(f"Cited by table length: {len(cited_by_table)}")
+        
         # 转换为原有格式
         author_data = {
             "container_type": "Author",
@@ -41,23 +47,37 @@ def get_scholar_data_serpapi(scholar_id, api_key):
             "scholar_id": scholar_id,
             "source": "AUTHOR_PROFILE_PAGE",
             "name": serpapi_data.get("author", {}).get("name", ""),
-            "url_picture": "",  # SerpAPI 不提供头像URL
+            "url_picture": "",
             "affiliation": serpapi_data.get("author", {}).get("affiliations", ""),
-            "interests": [],  # SerpAPI 不提供研究兴趣
-            "email_domain": "",  # SerpAPI 不提供邮箱
-            "homepage": "",  # SerpAPI 不提供主页
-            "citedby": serpapi_data.get("cited_by", {}).get("table", [{}])[0].get("citations", {}).get("all", 0),
+            "interests": [],
+            "email_domain": "",
+            "homepage": "",
+            "citedby": 0,
             "publications": [],
-            "citedby5y": serpapi_data.get("cited_by", {}).get("table", [{}])[1].get("citations", {}).get("last_5_years", 0),
-            "hindex": serpapi_data.get("cited_by", {}).get("table", [{}])[2].get("h_index", {}).get("all", 0),
-            "hindex5y": serpapi_data.get("cited_by", {}).get("table", [{}])[3].get("h_index", {}).get("last_5_years", 0),
-            "i10index": serpapi_data.get("cited_by", {}).get("table", [{}])[4].get("i10_index", {}).get("all", 0),
-            "i10index5y": serpapi_data.get("cited_by", {}).get("table", [{}])[5].get("i10_index", {}).get("last_5_years", 0),
+            "citedby5y": 0,
+            "hindex": 0,
+            "hindex5y": 0,
+            "i10index": 0,
+            "i10index5y": 0,
             "cites_per_year": {}
         }
         
+        # 安全地提取引用数据
+        if len(cited_by_table) > 0:
+            author_data["citedby"] = cited_by_table[0].get("citations", {}).get("all", 0)
+        if len(cited_by_table) > 1:
+            author_data["citedby5y"] = cited_by_table[1].get("citations", {}).get("last_5_years", 0)
+        if len(cited_by_table) > 2:
+            author_data["hindex"] = cited_by_table[2].get("h_index", {}).get("all", 0)
+        if len(cited_by_table) > 3:
+            author_data["hindex5y"] = cited_by_table[3].get("h_index", {}).get("last_5_years", 0)
+        if len(cited_by_table) > 4:
+            author_data["i10index"] = cited_by_table[4].get("i10_index", {}).get("all", 0)
+        if len(cited_by_table) > 5:
+            author_data["i10index5y"] = cited_by_table[5].get("i10_index", {}).get("last_5_years", 0)
+        
         # 处理年度引用数据
-        yearly_data = serpapi_data.get("cited_by", {}).get("graph", {}).get("citations", {})
+        yearly_data = serpapi_data.get("cited_by", {}).get("graph", {}).get("citations", [])
         for year_data in yearly_data:
             year = year_data.get("year")
             citations = year_data.get("citations", 0)
@@ -82,15 +102,17 @@ def get_scholar_data_serpapi(scholar_id, api_key):
             }
             author_data["publications"].append(publication)
         
+        logger.info(f"Successfully processed data: {author_data['citedby']} citations, {len(author_data['publications'])} publications")
         return author_data
         
     except Exception as e:
         logger.error(f"SerpAPI request failed: {e}")
+        logger.error(f"Full response: {response.text if 'response' in locals() else 'No response'}")
         return None
 
 def main():
     try:
-        SCHOLAR_ID = "e5ng8m0AAAAJ"  # 纯ID，不要带参数
+        SCHOLAR_ID = "e5ng8m0AAAAJ"
         SERPAPI_KEY = os.getenv("SERPAPI_KEY")
         
         if not SERPAPI_KEY:
