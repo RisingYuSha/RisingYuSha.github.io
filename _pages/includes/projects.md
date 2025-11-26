@@ -1,4 +1,8 @@
 # 🔧 Projects
+### The Chinese University of Hong Kong-Shenzhen (CUHK-SZ)
+- Physics-Informed Deep Learning for Cavitation Intensity Diagnosis in Valve–Pipeline Systems
+   *China Postdoctoral Science Foundation (78-th, 2025)* | **800000 RMB** | **Project Leader** | **In Progress** 
+
 ### Xidian University (XDU)
 - Analysis of battlefield situation of artificial intelligence in the context of big data
    *The 20th Research Institute of China Electronics Technology Group Corporation-Xidian Joint Laboratory for Artificial Intelligence* | **450000 RMB** | **Project Participant** | **Completed** 
