@@ -1,7 +1,6 @@
 # 🔧 Projects
 ### The Chinese University of Hong Kong-Shenzhen (CUHK-SZ)
 - Physics-Informed Deep Learning for Cavitation Intensity Diagnosis in Valve–Pipeline Systems
-  
    *China Postdoctoral Science Foundation (78-th, 2025)* | **800000 RMB** | **Project Leader** | **In Progress** 
 
 ### Xidian University (XDU)
