@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 134,
+  "citedby": 136,
   "publications": [
     {
       "container_type": "Publication",
@@ -29,7 +29,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 40,
+      "num_citations": 42,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
@@ -45,7 +45,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 39,
+      "num_citations": 38,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
@@ -125,7 +125,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 5,
+      "num_citations": 6,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
       "cites_id": [
         "15020320763816259828"
@@ -212,7 +212,7 @@
       ]
     }
   ],
-  "citedby5y": 134,
+  "citedby5y": 136,
   "hindex": 6,
   "hindex5y": 6,
   "i10index": 4,
@@ -222,6 +222,6 @@
     "2022": 16,
     "2023": 26,
     "2024": 38,
-    "2025": 52
+    "2025": 54
   }
 }
