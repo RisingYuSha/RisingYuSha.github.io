@@ -69,7 +69,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-42-blue" alt="Citations"></a>
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-43-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -113,7 +113,7 @@ Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping 
 
 <!-- 10 -->
 <div class='paper-box-text' markdown="1">
-Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-3-blue" alt="Citations"></a>)  
+Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-4-blue" alt="Citations"></a>)  
 </div>
 
 
