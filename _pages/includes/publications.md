@@ -25,8 +25,45 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 </div>
 </div>
 
-
 <!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC
+
+Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang 
+
+**ArxiV 2025** | [Paper](https://arxiv.org/pdf/2511.13163) 
+</div>
+</div>
+
+<!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks
+
+Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
+
+**Frontiers in Neuroscience** | **2025** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) 
+</div>
+</div>
+
+
+<!-- 5 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance
+
+Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
+
+**IEEE Journal of Biomedical and Health Informatics** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors)
+</div>
+</div>
+
+
+<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +76,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 </div>
 
 
-<!-- 4 -->
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +89,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 </div>
 
 
-<!-- 5 -->
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +102,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 </div>
 
 
-<!-- 6 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,7 +115,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 </div>
 
 
-<!-- 7 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +128,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 </div>
 
 
-<!-- 8 -->
+<!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,25 +139,6 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 **Machine Intelligence Research** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
 </div>
 </div>
-
-<!-- 9 -->
-<div class='paper-box-text' markdown="1">
-A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC. Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang (**ArxiV** | **2025** | [Paper](https://arxiv.org/pdf/2511.13163) ) 
-</div>
-
-
-<!-- 10 -->
-<div class='paper-box-text' markdown="1">
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**Frontiers in Neuroscience** | **2025** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-6-blue" alt="Citations"></a>) 
-</div>
-
-
-
-<!-- 11 -->
-<div class='paper-box-text' markdown="1">
-Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance. Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao (**IEEE Journal of Biomedical and Health Informatics** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/document/10810416/authors#authors) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-4-blue" alt="Citations"></a>)  
-</div>
-
 
 
 <!-- 12 -->
