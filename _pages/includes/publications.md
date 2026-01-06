@@ -38,6 +38,19 @@ Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang
 </div>
 
 <!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Prioritization Hindsight Experience based on Spatial Position Attention for Robots <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>  
+
+Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
+
+**Machine Intelligence Research** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
+</div>
+</div>
+
+
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +63,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 5 -->
+<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,7 +76,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 6 -->
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,7 +89,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 </div>
 
 
-<!-- 7 -->
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +102,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 </div>
 
 
-<!-- 8 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -102,7 +115,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 </div>
 
 
-<!-- 9 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,7 +128,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 </div>
 
 
-<!-- 10 -->
+<!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,19 +137,6 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
 
 **Measurement** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
-</div>
-</div>
-
-
-<!-- 11 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Prioritization Hindsight Experience based on Spatial Position Attention for Robots <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>  
-
-Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
-
-**Machine Intelligence Research** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
 </div>
 </div>
 
