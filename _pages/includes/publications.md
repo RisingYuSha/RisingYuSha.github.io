@@ -38,7 +38,7 @@ Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang
 </div>
 
 <!-- 4 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks
@@ -51,7 +51,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 
 
 <!-- 5 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance
