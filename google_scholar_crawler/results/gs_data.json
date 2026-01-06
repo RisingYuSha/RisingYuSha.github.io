@@ -29,7 +29,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 43,
+      "num_citations": 42,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
@@ -45,7 +45,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 38,
+      "num_citations": 39,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
@@ -205,6 +205,22 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:JV2RwH3_ST0C",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2511.13163, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:blknAaTinKkC",
       "num_citations": null,
       "citedby_url": "",
       "cites_id": [
