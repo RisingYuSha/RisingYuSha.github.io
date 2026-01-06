@@ -26,7 +26,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 </div>
 
 <!-- 3 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC
