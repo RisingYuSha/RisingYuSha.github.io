@@ -45,7 +45,7 @@ Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks
 
 Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
 
-**Frontiers in Neuroscience** | **2025** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience) 
+**Frontiers in Neuroscience** | **2025** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1545583/full) 
 </div>
 </div>
 
