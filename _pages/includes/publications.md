@@ -29,7 +29,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC
+A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang 
 
@@ -54,7 +54,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-6-blue" alt="Citations"></a>
 
 Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
 
@@ -67,7 +67,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance
+Self-supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms utilizing Physiological Information Guidance <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-4-blue" alt="Citations"></a>
 
 Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
 
@@ -119,7 +119,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-42-blue" alt="Citations"></a>
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-43-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
