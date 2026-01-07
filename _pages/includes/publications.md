@@ -21,7 +21,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 
 **Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
 
-**ArxiV 2025** | [Paper](https://arxiv.org/abs/2511.15497) 
+**ArxiV** | **2025** | [Paper](https://arxiv.org/abs/2511.15497) 
 </div>
 </div>
 
@@ -33,7 +33,7 @@ A deep learning approach for predicting multiple observables in Au+ Au collision
 
 Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang 
 
-**ArxiV 2025** | [Paper](https://arxiv.org/pdf/2511.13163) 
+**ArxiV** | **2025** | [Paper](https://arxiv.org/pdf/2511.13163) 
 </div>
 </div>
 
@@ -45,7 +45,7 @@ Prioritization Hindsight Experience based on Spatial Position Attention for Robo
 
 Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
 
-**Machine Intelligence Research** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
+**Machine Intelligence Research** | **2025** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Networ
 
 Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
 
-**Expert Systems with Applications** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
+**Expert Systems with Applications** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
 </div>
 </div>
 
@@ -123,7 +123,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
-**Engineering Applications of Artificial Intelligence** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
+**Engineering Applications of Artificial Intelligence** | **2022** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
 </div>
 </div>
 
@@ -136,7 +136,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
 
-**Measurement** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
+**Measurement** | **2022** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
 </div>
 </div>
 
