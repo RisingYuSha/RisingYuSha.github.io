@@ -93,7 +93,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-2-blue" alt="Citations"></a>
+Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-3-blue" alt="Citations"></a>
 
 Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
 
@@ -132,7 +132,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-39-blue" alt="Citations"></a>
+An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-38-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
 
