@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 140,
+  "citedby": 141,
   "publications": [
     {
       "container_type": "Publication",
@@ -45,7 +45,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 38,
+      "num_citations": 39,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
@@ -238,6 +238,6 @@
     "2022": 16,
     "2023": 25,
     "2024": 39,
-    "2025": 58
+    "2025": 59
   }
 }
