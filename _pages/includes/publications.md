@@ -54,7 +54,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-7-blue" alt="Citations"></a>
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>
 
 Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
 
