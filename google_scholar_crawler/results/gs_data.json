@@ -61,7 +61,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:-f6ydRqryjwC",
-      "num_citations": 16,
+      "num_citations": 17,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2686912758430904394",
       "cites_id": [
         "2686912758430904394"
@@ -103,22 +103,6 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
-        "pub_year": "2025",
-        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 8,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
-      "cites_id": [
-        "15020320763816259828"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
         "title": "Deep learning-based small magnitude earthquake detection and seismic phase classification",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2204.02870, 2022"
@@ -129,6 +113,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14636330397915838976",
       "cites_id": [
         "14636330397915838976"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
+        "pub_year": "2025",
+        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
+      "cites_id": [
+        "15020320763816259828"
       ]
     },
     {
