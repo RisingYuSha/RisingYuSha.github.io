@@ -106,7 +106,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-17-blue" alt="Citations"></a>
+Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-18-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -119,7 +119,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-43-blue" alt="Citations"></a>
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-44-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
