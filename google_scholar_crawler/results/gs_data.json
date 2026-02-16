@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 144,
+  "citedby": 147,
   "publications": [
     {
       "container_type": "Publication",
@@ -29,7 +29,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 43,
+      "num_citations": 44,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
@@ -45,7 +45,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 39,
+      "num_citations": 40,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
@@ -103,6 +103,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
+        "pub_year": "2025",
+        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
+      "cites_id": [
+        "15020320763816259828"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Deep learning-based small magnitude earthquake detection and seismic phase classification",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2204.02870, 2022"
@@ -119,25 +135,9 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
-        "pub_year": "2025",
-        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 7,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
-      "cites_id": [
-        "15020320763816259828"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Self-Supervised, Non-Contact Heartbeat Detection Based on Ballistocardiograms Utilizing Physiological Information Guidance",
+        "title": "Self-supervised, non-contact heartbeat detection based on ballistocardiograms utilizing physiological information guidance",
         "pub_year": "2024",
-        "citation": "IEEE Journal of Biomedical and Health Informatics, 2024"
+        "citation": "IEEE Journal of Biomedical and Health Informatics 29 (4), 2589-2602, 2024"
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:bEWYMUwI8FkC",
@@ -151,7 +151,7 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Hierarchical cavitation intensity recognition using Sub-Master Transition Network-based acoustic signals in pipeline systems",
+        "title": "Hierarchical cavitation intensity recognition using sub-master transition network-based acoustic signals in pipeline systems",
         "pub_year": "2024",
         "citation": "Expert Systems with Applications 258, 125155, 2024"
       },
@@ -234,11 +234,11 @@
   "i10index": 4,
   "i10index5y": 0,
   "cites_per_year": {
-    "2021": 2,
-    "2022": 16,
+    "2021": 1,
+    "2022": 17,
     "2023": 25,
-    "2024": 40,
-    "2025": 59,
-    "2026": 2
+    "2024": 39,
+    "2025": 61,
+    "2026": 3
   }
 }
