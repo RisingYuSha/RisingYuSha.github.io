@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 148,
+  "citedby": 149,
   "publications": [
     {
       "container_type": "Publication",
@@ -87,6 +87,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
+        "pub_year": "2025",
+        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
+      "cites_id": [
+        "15020320763816259828"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
         "pub_year": "2024",
         "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
@@ -97,22 +113,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
       "cites_id": [
         "2238873371371914539"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Dynamic spatio-temporal pruning for efficient spiking neural networks",
-        "pub_year": "2025",
-        "citation": "Frontiers in Neuroscience 19, 1545583, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 8,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
-      "cites_id": [
-        "15020320763816259828"
       ]
     },
     {
@@ -239,6 +239,6 @@
     "2023": 25,
     "2024": 39,
     "2025": 61,
-    "2026": 4
+    "2026": 5
   }
 }
