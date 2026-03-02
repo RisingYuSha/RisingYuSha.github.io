@@ -2,10 +2,10 @@
 ### The Chinese University of Hong Kong-Shenzhen (CUHK-SZ)
 - Physics-Informed Deep Learning for Cavitation Intensity Diagnosis in Valve–Pipeline Systems  
    *China Postdoctoral Science Foundation (78-th, 2025)* | **80000 RMB** | **Project Leader** | **In Progress**
-
-- Physics-Guided Generative Artificial Intelligence and Its Applications in High-Energy Nuclear Physics 
+  
+- Physics-Guided Generative Artificial Intelligence and Its Applications in High-Energy Nuclear Physics  
    *Shenzhen General Program* | **300000 RMB** | **Project Participant** | **In Progress**
-
+  
 - Next-Generation Artificial Intelligence Key R&D Cultivation Project: Development of Physics-Integrated Generative AI Models 
    *National Natural Science Foundation of China* | **400000 RMB** | **Project Participant** | **In Progress**
 
