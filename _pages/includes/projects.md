@@ -16,6 +16,8 @@
 ### Frankfurt Institute for Advanced Studies (FIAS)
 - Cavitation and leakage detection in large pump/pipe using AI method  
    *SAMSON AG* | **500000 Euro** | **Project Participant** | **Completed**
+- AI-Based Research on Fast Physics Simulation  
+   *German Federal Ministry of Education and Research* | **240000 Euro** | **Project Participant** | **Completed**
 
 ### Lanzhou University of Technology (LUT)
 - LoRa based non-contact life detection system  
