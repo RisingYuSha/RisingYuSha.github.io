@@ -156,3 +156,254 @@ h1:before, .anchor:before {
       transform: translateY(calc(-100% + 100px));
     }
 }
+
+/* =========================
+   Theme toggle button
+   ========================= */
+
+.theme-switcher {
+  display: flex;
+  align-items: center;
+  margin-left: 0.8rem;
+}
+
+.theme-toggle {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #374151;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  line-height: 1;
+  transition: background-color 0.25s ease, border-color 0.25s ease, transform 0.2s ease, box-shadow 0.25s ease;
+}
+
+.theme-toggle:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.theme-icon {
+  position: absolute;
+  font-size: 1.15rem;
+  transition: opacity 0.25s ease, transform 0.4s ease;
+  transform-origin: center center;
+}
+
+/* light: 默认显示太阳 */
+[data-theme="light"] .theme-sun {
+  opacity: 1;
+  transform: rotate(0deg) scale(1);
+}
+
+[data-theme="light"] .theme-moon {
+  opacity: 0;
+  transform: rotate(-90deg) scale(0.7);
+}
+
+/* light: hover 显示月亮并旋转 */
+[data-theme="light"] .theme-toggle:hover .theme-sun {
+  opacity: 0;
+  transform: rotate(90deg) scale(0.7);
+}
+
+[data-theme="light"] .theme-toggle:hover .theme-moon {
+  opacity: 1;
+  transform: rotate(0deg) scale(1.08);
+}
+
+/* dark: 默认显示月亮 */
+[data-theme="dark"] .theme-sun {
+  opacity: 0;
+  transform: rotate(90deg) scale(0.7);
+}
+
+[data-theme="dark"] .theme-moon {
+  opacity: 1;
+  transform: rotate(0deg) scale(1);
+}
+
+/* dark: hover 显示太阳并旋转 */
+[data-theme="dark"] .theme-toggle:hover .theme-moon {
+  opacity: 0;
+  transform: rotate(-90deg) scale(0.7);
+}
+
+[data-theme="dark"] .theme-toggle:hover .theme-sun {
+  opacity: 1;
+  transform: rotate(0deg) scale(1.08);
+}
+
+@media screen and (max-width: 900px) {
+  .theme-switcher {
+    margin-left: 0.5rem;
+  }
+
+  .theme-toggle {
+    width: 38px;
+    height: 38px;
+  }
+}
+
+/* =========================
+   Dark theme overrides
+   ========================= */
+
+[data-theme="dark"] html,
+[data-theme="dark"] body {
+  background-color: #0f172a;
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] body {
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] .masthead {
+  background-color: #111827;
+  border-bottom: 1px solid #334155;
+}
+
+[data-theme="dark"] .greedy-nav {
+  background: #111827;
+}
+
+[data-theme="dark"] .greedy-nav,
+[data-theme="dark"] .greedy-nav .visible-links,
+[data-theme="dark"] .greedy-nav .hidden-links {
+  background: #111827;
+}
+
+[data-theme="dark"] .greedy-nav a,
+[data-theme="dark"] .masthead__menu-item a,
+[data-theme="dark"] .masthead__menu-home-item a,
+[data-theme="dark"] .site-title {
+  color: #e5e7eb !important;
+}
+
+[data-theme="dark"] .greedy-nav a:hover,
+[data-theme="dark"] .masthead__menu-item a:hover {
+  color: #93c5fd !important;
+}
+
+[data-theme="dark"] .greedy-nav button {
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] .theme-toggle {
+  background: #111827;
+  color: #e5e7eb;
+  border-color: #374151;
+}
+
+[data-theme="dark"] a {
+  color: #93c5fd;
+}
+
+[data-theme="dark"] a:hover {
+  color: #bfdbfe;
+}
+
+[data-theme="dark"] .page,
+[data-theme="dark"] .page__content,
+[data-theme="dark"] .page__inner-wrap,
+[data-theme="dark"] .archive,
+[data-theme="dark"] .archive__item,
+[data-theme="dark"] .sidebar,
+[data-theme="dark"] .author__content,
+[data-theme="dark"] .author__urls-wrapper,
+[data-theme="dark"] .author__urls,
+[data-theme="dark"] .notice,
+[data-theme="dark"] .pagination,
+[data-theme="dark"] .search-content,
+[data-theme="dark"] .initial-content {
+  background-color: transparent;
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] .author__name,
+[data-theme="dark"] .author__bio,
+[data-theme="dark"] .author__urls a,
+[data-theme="dark"] .archive__item-title,
+[data-theme="dark"] .page__title,
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6,
+[data-theme="dark"] p,
+[data-theme="dark"] li,
+[data-theme="dark"] strong,
+[data-theme="dark"] em {
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] .paper-box {
+  border-bottom: 1px solid #334155;
+}
+
+[data-theme="dark"] .paper-box-image img {
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45);
+}
+
+[data-theme="dark"] .badge {
+  background-color: #1d4ed8;
+  color: #ffffff;
+}
+
+[data-theme="dark"] .news-scroll {
+  background: #111827;
+  border: 1px solid #334155;
+}
+
+[data-theme="dark"] .news-scroll li {
+  color: #e5e7eb;
+  border-bottom: 1px dashed #334155;
+}
+
+[data-theme="dark"] .news-scroll .date {
+  color: #94a3b8;
+}
+
+[data-theme="dark"] code,
+[data-theme="dark"] pre,
+[data-theme="dark"] div.highlighter-rouge,
+[data-theme="dark"] figure.highlight {
+  background: #111827 !important;
+  color: #e5e7eb !important;
+}
+
+[data-theme="dark"] table,
+[data-theme="dark"] th,
+[data-theme="dark"] td {
+  border-color: #334155;
+}
+
+[data-theme="dark"] th,
+[data-theme="dark"] td {
+  color: #e5e7eb;
+}
+
+[data-theme="dark"] .page__footer,
+[data-theme="dark"] footer {
+  background-color: #111827;
+  color: #cbd5e1;
+  border-top: 1px solid #334155;
+}
+
+[data-theme="dark"] .page__footer a,
+[data-theme="dark"] footer a {
+  color: #93c5fd;
+}
+
+[data-theme="dark"] img {
+  opacity: 0.98;
+}
