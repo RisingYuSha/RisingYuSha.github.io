@@ -1,6 +1,7 @@
 # 🔥 News
 <div class="news-scroll">
   <ul>
+    <li><span class="date">12/03/2026</span> &nbsp;🎉🎉 I was invited to participate in a training seminar on applications for the China Postdoctoral Science Foundation and deliver a featured report.</li>
     <li><span class="date">25/11/2025</span> &nbsp;📢📢 I got the <a style="color: #447ec9" href="https://www.chinapostdoctor.org.cn/article?inid=e9785c04-b63c-418a-82eb-11b848656a19&yname=8&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9">China Postdoctoral Science Foundation (78-th, 2025)</a>.</li>
     <li><span class="date">23/11/2025</span> &nbsp;🎉🎉 one paper has been accepted by <a style="color: #447ec9" href="https://openreview.net/group?id=KDD.org/2026/Research_Track_August#tab-accept">ACM SIGKDD 2026 (CCF-A)</a>.</li>
     <li><span class="date">19/11/2025</span> &nbsp;🎉🎉 one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/abs/2511.15497">ArxiV</a>.</li>
