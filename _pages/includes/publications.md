@@ -80,7 +80,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-9-blue" alt="Citations"></a>
+Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-10-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
