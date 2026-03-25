@@ -45,7 +45,7 @@ Prioritization Hindsight Experience based on Spatial Position Attention for Robo
 
 Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo 
 
-**Machine Intelligence Research** | **2025** | **JCR: Q1** | **SCI: 2** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
+**Machine Intelligence Research** | **2025** | **JCR: Q1** | **SCI: 1** | [Paper](https://link.springer.com/article/10.1007/s11633-023-1467-z)
 </div>
 </div>
 
