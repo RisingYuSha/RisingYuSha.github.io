@@ -17,7 +17,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2026</div><img src='images/RealNVP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions 
+Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a> 
 
 Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Benwei Zhang
 
