@@ -8,7 +8,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis
 
 **Yu Sha**, Shuiping Gou, Bo Liu, Haofan Lu, Ningtao Liu, Jiahui Fu, Horst Stoecker, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
-**SIGKDD 2026** | **CCF: A** | [Paper](https://openreview.net/group?id=KDD.org/2026/Research_Track_August#tab-accept) 
+**SIGKDD 2026** | **CCF: A** | [Paper](https://arxiv.org/abs/2604.16459) 
 </div>
 </div>
 
