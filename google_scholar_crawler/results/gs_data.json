@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 161,
+  "citedby": 164,
   "publications": [
     {
       "container_type": "Publication",
@@ -29,7 +29,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 46,
+      "num_citations": 47,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
@@ -45,7 +45,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 42,
+      "num_citations": 43,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759614120627251174",
       "cites_id": [
         "15759614120627251174"
@@ -87,6 +87,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:r0BpntZqJG4C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
+      "cites_id": [
+        "2238873371371914539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "A study on small magnitude seismic phase identification using 1D deep residual neural network",
         "pub_year": "2022",
         "citation": "Artificial Intelligence in Geosciences 3, 115-122, 2022"
@@ -97,22 +113,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5186356511405669694",
       "cites_id": [
         "5186356511405669694"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
-        "pub_year": "2024",
-        "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:r0BpntZqJG4C",
-      "num_citations": 10,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
-      "cites_id": [
-        "2238873371371914539"
       ]
     },
     {
@@ -215,6 +215,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
+        "pub_year": "2026",
+        "citation": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:vV6vV6tmYwMC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions",
         "pub_year": "2026",
         "citation": "arXiv preprint arXiv:2603.24088, 2026"
@@ -254,7 +270,7 @@
     "2022": 17,
     "2023": 26,
     "2024": 38,
-    "2025": 63,
-    "2026": 15
+    "2025": 60,
+    "2026": 21
   }
 }
