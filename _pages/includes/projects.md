@@ -7,7 +7,6 @@
    **300000 RMB** | **Project Participant** | **In Progress**
   
 - Cultivation Project for Next-Generation Artificial Intelligence, National Natural Science Foundation of China (2025)
-
   **400000 RMB** | **Project Participant** | **In Progress**
 
 ### Xidian University (XDU)
