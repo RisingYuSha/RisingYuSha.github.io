@@ -1,13 +1,13 @@
 # 🔧 Projects
 ### The Chinese University of Hong Kong-Shenzhen (CUHK-SZ)
-- China Postdoctoral Science Foundation (78-th, 2025)  
-   **80000 RMB** | **Project Leader** | **In Progress**
-  
-- General Program of the Natural Science Foundation under the Basic Research Program of Shenzhen Science and Technology Innovation Commission (2025)
-   **300000 RMB** | **Project Participant** | **In Progress**
-  
-- Cultivation Project for Next-Generation Artificial Intelligence, National Natural Science Foundation of China (2025)
-   **400000 RMB** | **Project Participant** | **In Progress**
+- China Postdoctoral Science Foundation (78th Batch, 2025)  
+  **80,000 RMB** | **Project Leader** | **In Progress**
+
+- General Program of the Natural Science Foundation under the Basic Research Program of Shenzhen Science and Technology Innovation Commission (2025)  
+  **300,000 RMB** | **Project Participant** | **In Progress**
+
+- Cultivation Project for Next-Generation Artificial Intelligence, National Natural Science Foundation of China (2025)  
+  **400,000 RMB** | **Project Participant** | **In Progress**
 
 ### Xidian University (XDU)
 - Analysis of battlefield situation of artificial intelligence in the context of big data
