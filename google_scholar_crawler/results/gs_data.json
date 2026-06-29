@@ -231,6 +231,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation",
+        "pub_year": "2026",
+        "citation": "Neurocomputing, 134336, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:35N4QoGY0k4C",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions",
         "pub_year": "2026",
         "citation": "arXiv preprint arXiv:2603.24088, 2026"
@@ -270,7 +286,7 @@
     "2022": 17,
     "2023": 26,
     "2024": 38,
-    "2025": 60,
-    "2026": 32
+    "2025": 59,
+    "2026": 33
   }
 }
