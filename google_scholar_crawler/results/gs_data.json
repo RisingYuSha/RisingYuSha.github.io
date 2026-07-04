@@ -247,6 +247,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Deep learning approach for predicting multiple observables in collisions at energies available at the BNL Relativistic Heavy Ion Collider",
+        "pub_year": "2026",
+        "citation": "Physical Review C 113 (6), 064911, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:70eg2SAEIzsC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions",
         "pub_year": "2026",
         "citation": "arXiv preprint arXiv:2603.24088, 2026"
