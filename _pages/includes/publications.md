@@ -76,8 +76,20 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 </div>
 </div>
 
-
 <!-- 7 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a> 
+
+**Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
+
+**ArxiV** | **2025** | [Paper](https://arxiv.org/abs/2511.15497) 
+</div>
+</div>
+
+
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +103,7 @@ Haofan Lu, Ruimin Li, Shuiping Gou, Yalong Jiang, **Yu Sha**, Yingping Li
 
 
 
-<!-- 8 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2026</div><img src='images/RealNVP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,19 +115,6 @@ Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Be
 </div>
 </div>
 
-
-
-<!-- 9 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a> 
-
-**Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
-
-**ArxiV** | **2025** | [Paper](https://arxiv.org/abs/2511.15497) 
-</div>
-</div>
 
 <!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
