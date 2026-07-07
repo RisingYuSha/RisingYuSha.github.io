@@ -97,7 +97,7 @@ Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and s
 
 Haofan Lu, Ruimin Li, Shuiping Gou, Yalong Jiang, **Yu Sha**, Yingping Li 
 
-**Neurocomputing** | **2026** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231226017340?__cf_chl_f_tk=_60hUGCm9kBfdeFskJj.gCm5dbt4csed0IKXjb9y7Jo-1783409881-1.0.1.1-TPkkoevpwDm5qEjGZU3KjYITouxbpMx.MPbA66lb0KM) 
+**Neurocomputing** | **2026** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231226017340) 
 </div>
 </div>
 
