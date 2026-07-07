@@ -27,44 +27,6 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 
 
 <!-- 3 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-51-blue" alt="Citations"></a>
-
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
-
-**Engineering Applications of Artificial Intelligence** | **2022** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
-</div>
-</div>
-
-
-<!-- 4 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-45-blue" alt="Citations"></a>
-
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
-
-**Measurement** | **2022** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
-</div>
-</div>
-
-<!-- 5 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-5-blue" alt="Citations"></a>
-
-Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
-
-**Expert Systems with Applications** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
-</div>
-</div>
-
-
-<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,8 +39,46 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 </div>
 
 
+<!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-51-blue" alt="Citations"></a>
+
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
+
+**Engineering Applications of Artificial Intelligence** | **2022** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
+</div>
+</div>
+
+
+<!-- 5 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-45-blue" alt="Citations"></a>
+
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
+
+**Measurement** | **2022** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
+</div>
+</div>
+
+<!-- 6 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-5-blue" alt="Citations"></a>
+
+Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
+
+**Expert Systems with Applications** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
+</div>
+</div>
+
+
 <!-- 7 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
