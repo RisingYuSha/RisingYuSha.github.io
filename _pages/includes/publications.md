@@ -14,6 +14,84 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://
 
 
 <!-- 2 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-12-blue" alt="Citations"></a>
+
+**Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
+
+**SIGKDD 2024** | **CCF: A** | [Paper](https://doi.org/10.1145/3637528.3671610) | [Code](https://github.com/CavitationDetection/HKG)
+</div>
+</div>
+
+
+<!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-51-blue" alt="Citations"></a>
+
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
+
+**Engineering Applications of Artificial Intelligence** | **2022** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
+</div>
+</div>
+
+
+<!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-45-blue" alt="Citations"></a>
+
+**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
+
+**Measurement** | **2022** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
+</div>
+</div>
+
+<!-- 5 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-5-blue" alt="Citations"></a>
+
+Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
+
+**Expert Systems with Applications** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
+</div>
+</div>
+
+
+<!-- 6 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-21-blue" alt="Citations"></a>
+
+**Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
+
+**SIGKDD 2022** | **CCF: A** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
+</div>
+</div>
+
+
+<!-- 7 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+
+Haofan Lu, Ruimin Li, Shuiping Gou, Yalong Jiang, **Yu Sha**, Yingping Li 
+
+**Neurocomputing** | **2026** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231226017340?__cf_chl_f_tk=_60hUGCm9kBfdeFskJj.gCm5dbt4csed0IKXjb9y7Jo-1783409881-1.0.1.1-TPkkoevpwDm5qEjGZU3KjYITouxbpMx.MPbA66lb0KM) 
+</div>
+</div>
+
+
+
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2026</div><img src='images/RealNVP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -27,7 +105,7 @@ Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Be
 
 
 
-<!-- 3 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +117,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 </div>
 </div>
 
-<!-- 4 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,7 +129,7 @@ Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang
 </div>
 </div>
 
-<!-- 5 -->
+<!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +142,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 </div>
 
 
-<!-- 6 -->
+<!-- 12 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,7 +155,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 7 -->
+<!-- 13 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,93 +168,28 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 8 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-12-blue" alt="Citations"></a>
-
-**Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
-
-**SIGKDD 2024** | **CCF: A** | [Paper](https://doi.org/10.1145/3637528.3671610) | [Code](https://github.com/CavitationDetection/HKG)
-</div>
-</div>
-
-
-<!-- 9 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-5-blue" alt="Citations"></a>
-
-Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
-
-**Expert Systems with Applications** | **2024** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424020220?via%3Dihub)
-</div>
-</div>
-
-
-<!-- 10 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-21-blue" alt="Citations"></a>
-
-**Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
-
-**SIGKDD 2022** | **CCF: A** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
-</div>
-</div>
-
-
-<!-- 11 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-51-blue" alt="Citations"></a>
-
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
-
-**Engineering Applications of Artificial Intelligence** | **2022** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539133) | [Code](https://github.com/CavitationDetection/GRLNet)
-</div>
-</div>
-
-
-<!-- 12 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-45-blue" alt="Citations"></a>
-
-**Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
-
-**Measurement** | **2022** | **JCR: Q1** | **SCI: 2-Top** | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224122001798) | [Code](https://github.com/CavitationDetection/XGBoost_ASFE)
-</div>
-</div>
-
-
-<!-- 13 -->
+<!-- 14 -->
 <div class='paper-box-text' markdown="1">
 Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **2022** | **EI** | [Paper](https://link.springer.com/journal/11633) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)
 </div>
 
-<!-- 14 -->
+<!-- 15 -->
 <div class='paper-box-text' markdown="1">
 A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-13-blue" alt="Citations"></a>)
 </div>
 
-<!-- 15 -->
+<!-- 16 -->
 <div class="paper-box-text" markdown="1">
 Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | **2022** | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
 </div>
 
-<!-- 16 -->
+<!-- 17 -->
 <div class="paper-box-text" markdown="1">
 Smart home system based on STC89C52. Liang Qin, **Yu Sha**, Yumeng Xu (*Practical Electronics* | 2018 | [Paper](https://www.zhangqiaokeyan.com/academic-journal-cn_practical-electronics_thesis/0201235334678.html))
 </div>
 
 
-<!-- 17 -->
+<!-- 18 -->
 <div class="paper-box-text" markdown="1">
 Study on operation analysis and decision making for sharing-bicycles. Hong Zhang, Dixin Zhou, Chuanqi Cheng, **Yu Sha** (*Big Data Research* | 2019 | [Paper](https://qikan.cqvip.com/Qikan/Article/Detail?id=6100245874))
 </div>
