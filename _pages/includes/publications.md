@@ -78,7 +78,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 
 
 <!-- 7 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
