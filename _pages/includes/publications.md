@@ -117,14 +117,14 @@ Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Be
 
 
 <!-- 10 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">PRC 2026</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+Deep learning approach for predicting multiple observables in Au+ Au collisions at energies available at the BNL Relativistic Heavy Ion Collider <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang 
 
-**ArxiV** | **2025** | [Paper](https://arxiv.org/pdf/2511.13163) 
+**Physical Review C** | **2026** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://journals.aps.org/prc/pdf/10.1103/grkg-jm2z) 
 </div>
 </div>
 
