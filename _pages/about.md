@@ -9,6 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+{% capture publications_content %}
+{% include_relative includes/publications.md %}
+{% endcapture %}
+{% assign paper_count_single_quotes = publications_content | split: "class='paper-box-text'" | size | minus: 1 %}
+{% assign paper_count_double_quotes = publications_content | split: 'class="paper-box-text"' | size | minus: 1 %}
+{% assign publication_count = paper_count_single_quotes | plus: paper_count_double_quotes %}
+
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
@@ -19,7 +26,7 @@ redirect_from:
 
 {% include_relative includes/educations.md %}
 
-{% include_relative includes/publications.md %}
+{{ publications_content }}
 
 {% include_relative includes/projects.md %}
 
@@ -46,7 +53,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-
 
 
 
