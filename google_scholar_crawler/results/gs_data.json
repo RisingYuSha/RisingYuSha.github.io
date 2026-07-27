@@ -215,22 +215,6 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
-        "pub_year": "2026",
-        "citation": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:vV6vV6tmYwMC",
-      "num_citations": null,
-      "citedby_url": "",
-      "cites_id": [
-        ""
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
         "title": "Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation",
         "pub_year": "2026",
         "citation": "Neurocomputing, 134336, 2026"
@@ -253,6 +237,22 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:70eg2SAEIzsC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2604.16459, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:vV6vV6tmYwMC",
       "num_citations": null,
       "citedby_url": "",
       "cites_id": [
@@ -300,9 +300,9 @@
   "cites_per_year": {
     "2021": 1,
     "2022": 17,
-    "2023": 26,
-    "2024": 38,
-    "2025": 58,
-    "2026": 36
+    "2023": 28,
+    "2024": 36,
+    "2025": 59,
+    "2026": 35
   }
 }
