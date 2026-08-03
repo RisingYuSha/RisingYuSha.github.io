@@ -18,7 +18,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 177,
+  "citedby": 178,
   "publications": [
     {
       "container_type": "Publication",
@@ -62,7 +62,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:-f6ydRqryjwC",
-      "num_citations": 21,
+      "num_citations": 22,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2686912758430904394",
       "cites_id": [
         "2686912758430904394"
@@ -90,7 +90,7 @@
       "bib": {
         "title": "A study on small magnitude seismic phase identification using 1D deep residual neural network",
         "pub_year": "2022",
-        "citation": "Artificial Intelligence in Geosciences 3, 115-122, 2022"
+        "citation": "Artificial intelligence in geosciences 3, 115-122, 2022"
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:hFOr9nPyWt4C",
@@ -168,7 +168,7 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems",
+        "title": "A review of machine learning for cavitation intensity recognition in complex industrial systems",
         "pub_year": "2025",
         "citation": "arXiv preprint arXiv:2511.15497, 2025"
       },
@@ -216,6 +216,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
+        "pub_year": "2026",
+        "citation": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:vV6vV6tmYwMC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Uncertainty-guided vertex-parameter bidirectional refinement for hand pose and shape estimation",
         "pub_year": "2026",
         "citation": "Neurocomputing, 134336, 2026"
@@ -237,23 +253,7 @@
         "citation": "Physical Review C 113 (6), 064911, 2026"
       },
       "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:70eg2SAEIzsC",
-      "num_citations": null,
-      "citedby_url": "",
-      "cites_id": [
-        ""
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2604.16459, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:vV6vV6tmYwMC",
+      "author_pub_id": "e5ng8m0AAAAJ:blknAaTinKkC",
       "num_citations": null,
       "citedby_url": "",
       "cites_id": [
@@ -275,22 +275,6 @@
       "cites_id": [
         ""
       ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "A deep learning approach for predicting multiple observables in Au+ Au collisions at RHIC",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2511.13163, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:blknAaTinKkC",
-      "num_citations": null,
-      "citedby_url": "",
-      "cites_id": [
-        ""
-      ]
     }
   ],
   "citedby5y": 0,
@@ -301,9 +285,9 @@
   "cites_per_year": {
     "2021": 1,
     "2022": 17,
-    "2023": 28,
-    "2024": 36,
-    "2025": 59,
-    "2026": 35
+    "2023": 25,
+    "2024": 38,
+    "2025": 58,
+    "2026": 38
   }
 }
