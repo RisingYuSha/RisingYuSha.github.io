@@ -145,7 +145,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-13-blue" alt="Citations"></a>
+Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-14-blue" alt="Citations"></a>
 
 Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, Ruimin Li, Licheng Jiao
 
@@ -174,7 +174,7 @@ Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mi
 
 <!-- 15 -->
 <div class='paper-box-text' markdown="1">
-A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-13-blue" alt="Citations"></a>)
+A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-14-blue" alt="Citations"></a>)
 </div>
 
 <!-- 16 -->
