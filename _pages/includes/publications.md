@@ -43,7 +43,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-51-blue" alt="Citations"></a>
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-52-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -174,7 +174,7 @@ Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mi
 
 <!-- 15 -->
 <div class='paper-box-text' markdown="1">
-A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-14-blue" alt="Citations"></a>)
+A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-15-blue" alt="Citations"></a>)
 </div>
 
 <!-- 16 -->
