@@ -1,6 +1,7 @@
 # 🔥 News
 <div class="news-scroll">
   <ul>
+    <li><span class="date">24/09/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.</li>
     <li><span class="date">22/06/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://www.sciencedirect.com/science/article/pii/S0925231226017340">Neurocomputing</a>.</li>
     <li><span class="date">09/06/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://journals.aps.org/prc/pdf/10.1103/grkg-jm2z">Physical Review C</a>.</li>
     <li><span class="date">12/03/2026</span> &nbsp;🎉🎉 I was invited to participate in a training seminar on applications for the China Postdoctoral Science Foundation and deliver a featured report.</li>
