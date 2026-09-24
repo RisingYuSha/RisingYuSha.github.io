@@ -1,4 +1,5 @@
 # 💬 Invited Talks
+- *13/08/2026*, &nbsp; Industrial / Manufacturing Applications, ACM SIGKDD2026.
 - *28/04/2026*, &nbsp; The 5th Equipment Intelligent Operation and Maintenance Conference in 2026 (Special Session Presentation, China Science and Technology Network for a feature interview).
 - *12/03/2026*, &nbsp; The seminar on applications for the China Postdoctoral Science Foundation was jointly organized by the SZBSH and the SIAT (Presentation).
 - *25/10/2025*, &nbsp; 2025 IEEE International Conference on Low Caebon and Smart Energy (Best Oral Presentation Award).
