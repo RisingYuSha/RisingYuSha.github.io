@@ -90,6 +90,21 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 
 
 <!-- 8 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Applied Sciences 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Lightweight Uncertainty-Aware Early Accident Diagnosis: A Leakage-Controlled Benchmark on NPPAD <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+
+Qing Zhang, **Yu Sha**, Junqi Tao 
+
+**Applied Sciences** | **2026** | **JCR: Q1** | [Paper](https://www.mdpi.com/journal/applsci) 
+</div>
+</div>
+
+
+
+
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,7 +118,7 @@ Haofan Lu, Ruimin Li, Shuiping Gou, Yalong Jiang, **Yu Sha**, Yingping Li
 
 
 
-<!-- 9 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2026</div><img src='images/RealNVP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -116,7 +131,7 @@ Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Be
 </div>
 
 
-<!-- 10 -->
+<!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">PRC 2026</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -128,7 +143,7 @@ Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang
 </div>
 </div>
 
-<!-- 11 -->
+<!-- 12 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -140,8 +155,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 </div>
 </div>
 
-
-<!-- 12 -->
+<!-- 13 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,7 +168,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 13 -->
+<!-- 14 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -167,28 +181,28 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 14 -->
+<!-- 15 -->
 <div class='paper-box-text' markdown="1">
 Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **2022** | **EI** | [Paper](https://link.springer.com/journal/11633) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)
 </div>
 
-<!-- 15 -->
+<!-- 16 -->
 <div class='paper-box-text' markdown="1">
 A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-15-blue" alt="Citations"></a>)
 </div>
 
-<!-- 16 -->
+<!-- 17 -->
 <div class="paper-box-text" markdown="1">
 Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | **2022** | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
 </div>
 
-<!-- 17 -->
+<!-- 19 -->
 <div class="paper-box-text" markdown="1">
 Smart home system based on STC89C52. Liang Qin, **Yu Sha**, Yumeng Xu (*Practical Electronics* | 2018 | [Paper](https://www.zhangqiaokeyan.com/academic-journal-cn_practical-electronics_thesis/0201235334678.html))
 </div>
 
 
-<!-- 18 -->
+<!-- 20 -->
 <div class="paper-box-text" markdown="1">
 Study on operation analysis and decision making for sharing-bicycles. Hong Zhang, Dixin Zhou, Chuanqi Cheng, **Yu Sha** (*Big Data Research* | 2019 | [Paper](https://qikan.cqvip.com/Qikan/Article/Detail?id=6100245874))
 </div>
