@@ -90,7 +90,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 
 
 <!-- 8 -->
-<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Applied Sciences 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Applied Sciences 2026</div><img src='images/appscience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Lightweight Uncertainty-Aware Early Accident Diagnosis: A Leakage-Controlled Benchmark on NPPAD <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
