@@ -215,6 +215,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Measuring Behavioural Signatures of Large Language Models through Psychometric Profiling",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2609.22934, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:ldfaerwXgEUC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis",
         "pub_year": "2026",
         "citation": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and …, 2026"
