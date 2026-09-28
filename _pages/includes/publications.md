@@ -97,7 +97,7 @@ Lightweight Uncertainty-Aware Early Accident Diagnosis: A Leakage-Controlled Ben
 
 Qing Zhang, **Yu Sha**, Junqi Tao 
 
-**Applied Sciences** | **2026** | **JCR: Q1** | [Paper](https://www.mdpi.com/journal/applsci) 
+**Applied Sciences** | **2026** | **JCR: Q1** | [Paper](https://www.mdpi.com/2076-3417/16/19/9622) 
 </div>
 </div>
 
