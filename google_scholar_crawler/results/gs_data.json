@@ -17,7 +17,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 188,
+  "citedby": 190,
   "publications": [
     {
       "container_type": "Publication",
@@ -77,7 +77,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:isC4tDSrTZIC",
-      "num_citations": 15,
+      "num_citations": 16,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15020320763816259828",
       "cites_id": [
         "15020320763816259828"
@@ -93,7 +93,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:hFOr9nPyWt4C",
-      "num_citations": 15,
+      "num_citations": 16,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5186356511405669694",
       "cites_id": [
         "5186356511405669694"
@@ -215,6 +215,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Uncertainty-Aware Post-Onset Accident Diagnosis: An Audited Within-Cohort Benchmark on NPPAD",
+        "pub_year": "2026",
+        "citation": "Applied Sciences 16 (19), 9622, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:M05iB0D1s5AC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Measuring Behavioural Signatures of Large Language Models through Psychometric Profiling",
         "pub_year": "2026",
         "citation": "arXiv preprint arXiv:2609.22934, 2026"
@@ -303,6 +319,6 @@
     "2023": 25,
     "2024": 37,
     "2025": 58,
-    "2026": 49
+    "2026": 51
   }
 }
