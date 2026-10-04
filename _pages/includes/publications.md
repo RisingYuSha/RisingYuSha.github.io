@@ -1,6 +1,19 @@
 # 📚 Publications
 ### 📝 Papers:
 <!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/LLM_Behaviour.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Measuring Behavioural Signatures of Large Language Models through Psychometric Profiling <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+
+**Yu Sha<sup>*</sup>**, Junqi Tao, Dixin Zhou, Yansheng Tu, Mingyang Chen, Xiang Fan, Yang Liu, Mengquan Yang, Jie Lin, Jiahui Fu, Hua Zheng, Benwei Zhang, Kai Zhou<sup>*</sup>
+
+**Arxiv 2026** | [Paper](https://arxiv.org/abs/2609.22934) 
+</div>
+</div>
+
+
+<!-- 2 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,7 +26,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://
 </div>
 
 
-<!-- 2 -->
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -26,7 +39,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 </div>
 
 
-<!-- 3 -->
+<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +52,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 </div>
 
 
-<!-- 4 -->
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +65,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 </div>
 
 
-<!-- 5 -->
+<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +77,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 </div>
 </div>
 
-<!-- 6 -->
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,7 +89,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 </div>
 </div>
 
-<!-- 7 -->
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +102,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 </div>
 
 
-<!-- 8 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Applied Sciences 2026</div><img src='images/appscience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -104,7 +117,7 @@ Qing Zhang, **Yu Sha**, Junqi Tao
 
 
 
-<!-- 9 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Neurocomputing 2026</div><img src='images/1-s2.0-S0925231226017340-gr2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -118,7 +131,7 @@ Haofan Lu, Ruimin Li, Shuiping Gou, Yalong Jiang, **Yu Sha**, Yingping Li
 
 
 
-<!-- 10 -->
+<!-- 11 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2026</div><img src='images/RealNVP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -131,7 +144,7 @@ Junqi Tao, Yang Liu, **Yu Sha**, Xiang Fan, Yansheng Tu, Kai Zhou, Hua Zheng, Be
 </div>
 
 
-<!-- 11 -->
+<!-- 12 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">PRC 2026</div><img src='images/PRC2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -143,7 +156,7 @@ Junqi Tao, Xiang Fan, Yang Liu, **Yu Sha**, Kai Zhou, Hua Zheng, Benwei Zhang
 </div>
 </div>
 
-<!-- 12 -->
+<!-- 13 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">MIR 2025</div><img src='images/MIR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -155,7 +168,7 @@ Ye Yuan, **Yu Sha**, Feixiang Sun, Haofan Lu, Shuiping Gou, Jie Luo
 </div>
 </div>
 
-<!-- 13 -->
+<!-- 14 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Front. Neurosci 2025</div><img src='images/FontNeusc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -168,7 +181,7 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 14 -->
+<!-- 15 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">JBHI 2024</div><img src='images/JBHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -181,17 +194,17 @@ Shuiping Gou, Jiahui Fu, **Yu Sha**, Zhen Cao, Zhang Guo, Jason K. Eshraghian, R
 </div>
 
 
-<!-- 15 -->
+<!-- 16 -->
 <div class='paper-box-text' markdown="1">
 Phase Retrieval for Terahertz Holography with Physics-Informed Deep Learning. Mingjun Xiang, Lingxiao Wang, **Yu Sha**, Hui Yuan, Kai Zhou, Hartmut G Roskos (**Digital Holography and Three-Dimensional Imaging** | **2022** | **EI** | [Paper](https://link.springer.com/journal/11633) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>)
 </div>
 
-<!-- 16 -->
+<!-- 17 -->
 <div class='paper-box-text' markdown="1">
 A study on small magnitude seismic phase identification using 1D deep residual neural network. Wei Li, Megha Chakraborty, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (**Artificial Intelligence in Geosciences** | **2022** | **JCR: Q1** | **SCI: 2** | [Paper](https://www.sciencedirect.com/science/article/pii/S2666544122000284) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-16-blue" alt="Citations"></a>)
 </div>
 
-<!-- 17 -->
+<!-- 18 -->
 <div class="paper-box-text" markdown="1">
 Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification. Wei Li, **Yu Sha**, Kai Zhou, Johannes Faber, Georg Rümpker, Horst Stöcker, Nishtha Srivastava (*arXiv* 2204.02870 | **2022** | [Paper](https://arxiv.org/pdf/2204.02870.pdf) | [Code](https://github.com/srivastavaresearchgroup/Seismic-phase-Classification) | <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-8-blue" alt="Citations"></a>)
 </div>
