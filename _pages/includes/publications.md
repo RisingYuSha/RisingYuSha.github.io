@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/LLM_Behaviour.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Measuring Behavioural Signatures of Large Language Models through Psychometric Profiling <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+Measuring Behavioural Signatures of Large Language Models through Psychometric Profiling <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
 
 **Yu Sha<sup>*</sup>**, Junqi Tao, Dixin Zhou, Yansheng Tu, Mingyang Chen, Xiang Fan, Yang Liu, Mengquan Yang, Jie Lin, Jiahui Fu, Hua Zheng, Benwei Zhang, Kai Zhou<sup>*</sup>
 
@@ -17,7 +17,7 @@ Measuring Behavioural Signatures of Large Language Models through Psychometric P
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-2-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Bo Liu, Haofan Lu, Ningtao Liu, Jiahui Fu, Horst Stoecker, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -30,7 +30,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-13-blue" alt="Citations"></a>
+Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-15-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -43,7 +43,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-22-blue" alt="Citations"></a>
+Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-24-blue" alt="Citations"></a>
 
 **Yu Sha**, Shuiping Gou, Johannes Faber, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -56,7 +56,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-52-blue" alt="Citations"></a>
+A multi-task learning for cavitation detection and cavitation intensity recognition of valve acoustic signals <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-54-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -69,7 +69,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-46-blue" alt="Citations"></a>
+An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-48-blue" alt="Citations"></a>
 
 **Yu Sha**, Johannes Faber, Shuiping Gou, Bo Liu, Wei Li, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>  
 
@@ -81,7 +81,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-6-blue" alt="Citations"></a>
+Hierarchical Cavitation Intensity Recognition Using Sub-Master Transition Network-based Acoustic Signals in Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-7-blue" alt="Citations"></a>
 
 Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefan Schramm, Horst Stoecker, Thomas Steckenreiter, Domagoj Vnucec, Nadine Wetzstein, Andreas Widl, Kai Zhou<sup>*</sup>
 
@@ -93,7 +93,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-2-blue" alt="Citations"></a> 
+A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-4-blue" alt="Citations"></a> 
 
 **Yu Sha**, Ningtao Liu, Haofeng Liu, Junqi Tao, Zhenxing Niu, Guojun Huang, Yao Yao, Jiaqi Liang, Moxian Qian, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup>
 
