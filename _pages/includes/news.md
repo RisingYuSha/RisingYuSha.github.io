@@ -1,6 +1,7 @@
 # 🔥 News
 <div class="news-scroll">
   <ul>
+    <li><span class="date">26/10/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://crad.ict.ac.cn/">计算机研究与进展 (CCF-A)</a>.</li>
     <li><span class="date">25/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.34072">ArxiV</a>.</li>
     <li><span class="date">20/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.27891">ArxiV</a>.</li>
     <li><span class="date">20/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.27860">ArxiV</a>.</li>
