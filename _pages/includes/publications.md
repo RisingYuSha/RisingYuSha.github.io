@@ -28,7 +28,7 @@ Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Flui
 
 
 
-<!-- 1 -->
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/LLM_Behaviour.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +41,7 @@ Measuring Behavioural Signatures of Large Language Models through Psychometric P
 </div>
 
 
-<!-- 2 -->
+<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2026 (Oral &amp; Poster)</div><img src='images/KDD2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +54,7 @@ Deep Hierarchical Knowledge Loss for Fault Intensity Diagnosis <a href="https://
 </div>
 
 
-<!-- 3 -->
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2024 (Oral &amp; Poster)</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,7 +67,7 @@ Hierarchical Knowledge Guided Fault Intensity Diagnosis of Complex Industrial Sy
 </div>
 
 
-<!-- 4 -->
+<!-- 6 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">KDD 2022 (Poster)</div><img src='images/KDD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,7 +80,7 @@ Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detect
 </div>
 
 
-<!-- 5 -->
+<!-- 7 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">EAAI 2022</div><img src='images/EAAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -93,7 +93,7 @@ A multi-task learning for cavitation detection and cavitation intensity recognit
 </div>
 
 
-<!-- 6 -->
+<!-- 8 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Measurement 2022</div><img src='images/Measurement2022-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -105,7 +105,7 @@ An acoustic signal cavitation detection framework based on XGBoost with adaptive
 </div>
 </div>
 
-<!-- 7 -->
+<!-- 9 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ESWA 2024</div><img src='images/ESWA2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,7 +117,7 @@ Shuiping Gou, **Yu Sha<sup>*</sup>**, Bo Liu, Ningtao Liu, Johannes Faber, Stefa
 </div>
 </div>
 
-<!-- 8 -->
+<!-- 10 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">ArxiV 2025</div><img src='images/CavitationReview2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -135,7 +135,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 
 Inferring Nuclear Radial Parameters from Initial-State Information in Heavy-Ion Collisions Using Deep Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
 
-Yang Liu, **Yu Sha<sup>*</sup>**, Xiang Fan, Yan-Sheng Tu, Shi-Lei Tao, Qing Zhang, Jun-Qi Tao, Kai Zhou, Hua Zheng, Ben-Wei Zhang
+Yang Liu, **Yu Sha**, Xiang Fan, Yan-Sheng Tu, Shi-Lei Tao, Qing Zhang, Jun-Qi Tao, Kai Zhou, Hua Zheng, Ben-Wei Zhang
 
 **Arxiv 2026** | [Paper](https://arxiv.org/pdf/2610.34072) 
 </div>
