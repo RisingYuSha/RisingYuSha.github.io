@@ -1,6 +1,21 @@
 # 📚 Publications
 ### 📝 Papers:
 <!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">计算机研究与发展 2026 </div><img src='images/GenAIPhy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+物理中的生成式人工智能 (Generative AI meets Physics) <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+
+陶俊琦 (Junqi Tao)<sup>†</sup>, **沙毓 (Yu Sha)<sup>†</sup>**, 涂彦声 (Yansheng Tu), 黄国俊 (Guojun Huang), 葛祎尧 (Yiyao Ge), 周凯 (Kai Zhou)<sup>*</sup> 
+
+**计算机研究与发展 (Journal of Computer Research and Development)** | **2026** | **CCF-A** | [Paper](https://crad.ict.ac.cn/) 
+</div>
+</div>
+
+
+
+
+<!-- 1 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/POCVLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
