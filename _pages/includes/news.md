@@ -1,6 +1,9 @@
 # 🔥 News
 <div class="news-scroll">
   <ul>
+    <li><span class="date">25/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.34072">ArxiV</a>.</li>
+    <li><span class="date">20/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.27891">ArxiV</a>.</li>
+    <li><span class="date">20/10/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2610.27860">ArxiV</a>.</li>
     <li><span class="date">19/09/2026</span> &nbsp;🎉🎉  one paper has been uploaded to <a style="color: #447ec9" href="https://arxiv.org/pdf/2609.22934">ArxiV</a>.</li>
     <li><span class="date">24/09/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.</li>
     <li><span class="date">22/06/2026</span> &nbsp;🎉🎉  one paper has been accepted by <a style="color: #447ec9" href="https://www.sciencedirect.com/science/article/pii/S0925231226017340">Neurocomputing</a>.</li>
