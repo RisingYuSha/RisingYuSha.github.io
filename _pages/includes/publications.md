@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/POCVLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
+Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 **Yu Sha<sup>*</sup>**, Junqi Tao, Deyu Wang, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -18,7 +18,7 @@ Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diag
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/PhyNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
+Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 **Yu Sha<sup>*</sup>**, Junqi Tao, Dixin Zhou, Horst Stoecker, Domagoj Vnucec, Andreas Widl, Kai Zhou<sup>*</sup> 
 
@@ -133,7 +133,7 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/MNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Inferring Nuclear Radial Parameters from Initial-State Information in Heavy-Ion Collisions Using Deep Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-1-blue" alt="Citations"></a>
+Inferring Nuclear Radial Parameters from Initial-State Information in Heavy-Ion Collisions Using Deep Neural Networks <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
 
 Yang Liu, **Yu Sha**, Xiang Fan, Yan-Sheng Tu, Shi-Lei Tao, Qing Zhang, Jun-Qi Tao, Kai Zhou, Hua Zheng, Ben-Wei Zhang
 
