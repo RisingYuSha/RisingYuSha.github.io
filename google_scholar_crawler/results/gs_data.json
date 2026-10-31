@@ -18,7 +18,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 204,
+  "citedby": 206,
   "publications": [
     {
       "container_type": "Publication",
@@ -30,7 +30,7 @@
       },
       "filled": false,
       "author_pub_id": "e5ng8m0AAAAJ:qjMakFHDy7sC",
-      "num_citations": 54,
+      "num_citations": 55,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426359368183646132",
       "cites_id": [
         "5426359368183646132"
@@ -216,6 +216,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Deep learning approach for predicting multiple observables in collisions at energies available at the BNL Relativistic Heavy Ion Collider",
+        "pub_year": "2026",
+        "citation": "Physical Review C 113 (6), 064911, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:blknAaTinKkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8028218456859009429",
+      "cites_id": [
+        "8028218456859009429"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "Prioritization Hindsight Experience Based on Spatial Position Attention for Robots",
         "pub_year": "2025",
         "citation": "Machine Intelligence Research 22 (1), 160-175, 2025"
@@ -242,6 +258,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10622308389860480689",
       "cites_id": [
         "10622308389860480689"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Inferring Nuclear Radial Parameters from Initial-State Information in Heavy-Ion Collisions Using Deep Neural Networks",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2610.34072, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:ZHo1McVdvXMC",
+      "num_citations": null,
+      "citedby_url": "",
+      "cites_id": [
+        ""
       ]
     },
     {
@@ -307,38 +339,6 @@
       "cites_id": [
         ""
       ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Deep learning approach for predicting multiple observables in collisions at energies available at the BNL Relativistic Heavy Ion Collider",
-        "pub_year": "2026",
-        "citation": "Physical Review C 113 (6), 064911, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:blknAaTinKkC",
-      "num_citations": null,
-      "citedby_url": "",
-      "cites_id": [
-        ""
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Deep learning approaches to extract nuclear deformation parameters from initial-state information in heavy-ion collisions",
-        "pub_year": "2026",
-        "citation": "arXiv preprint arXiv:2603.24088, 2026"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:lSLTfruPkqcC",
-      "num_citations": null,
-      "citedby_url": "",
-      "cites_id": [
-        ""
-      ]
     }
   ],
   "citedby5y": 0,
@@ -352,6 +352,6 @@
     "2023": 25,
     "2024": 37,
     "2025": 58,
-    "2026": 65
+    "2026": 67
   }
 }
