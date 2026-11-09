@@ -18,7 +18,7 @@
   ],
   "email_domain": "@cuhk.edu.cn",
   "homepage": "https://risingyusha.github.io/",
-  "citedby": 206,
+  "citedby": 207,
   "publications": [
     {
       "container_type": "Publication",
@@ -88,6 +88,22 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
+        "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "e5ng8m0AAAAJ:r0BpntZqJG4C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
+      "cites_id": [
+        "2238873371371914539"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
         "title": "A study on small magnitude seismic phase identification using 1D deep residual neural network",
         "pub_year": "2022",
         "citation": "Artificial intelligence in geosciences 3, 115-122, 2022"
@@ -98,22 +114,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5186356511405669694",
       "cites_id": [
         "5186356511405669694"
-      ]
-    },
-    {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems",
-        "pub_year": "2024",
-        "citation": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …, 2024"
-      },
-      "filled": false,
-      "author_pub_id": "e5ng8m0AAAAJ:r0BpntZqJG4C",
-      "num_citations": 15,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2238873371371914539",
-      "cites_id": [
-        "2238873371371914539"
       ]
     },
     {
@@ -352,6 +352,6 @@
     "2023": 25,
     "2024": 37,
     "2025": 58,
-    "2026": 67
+    "2026": 68
   }
 }
