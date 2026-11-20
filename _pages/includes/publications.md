@@ -144,6 +144,22 @@ A Review of Machine Learning for Cavitation Intensity Recognition in Complex Ind
 </div>
 </div>
 
+
+<!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div> <div class="badge">TVCG 2026 </div><img src='images/TVCG_25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dual-View Hand Pose Estimation using Canonical Parameter Decoupling and Grasp Prior <a href="https://scholar.google.com.hk/citations?user=e5ng8m0AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Citations-0-blue" alt="Citations"></a>
+
+Shuiping Gou, Haofan Lu, Yang Zheng, **Yu Sha**, Ruimin Liu
+
+**TVCG** | **2026** | **JCR: Q1** | **SCI: 1-Top** | [Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) 
+</div>
+</div>
+
+
+
+
 <!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div> <div class="badge">Arxiv 2026 </div><img src='images/MNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
