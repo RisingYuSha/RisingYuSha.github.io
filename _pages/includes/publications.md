@@ -8,7 +8,7 @@
 
 陶俊琦 (Junqi Tao)<sup>†</sup>, **沙毓 (Yu Sha)<sup>†</sup>**, 涂彦声 (Yansheng Tu), 黄国俊 (Guojun Huang), 葛祎尧 (Yiyao Ge), 周凯 (Kai Zhou)<sup>*</sup> 
 
-**计算机研究与发展 (Journal of Computer Research and Development)** | **2026** | **CCF-A** | [Paper](https://crad.ict.ac.cn/) 
+**计算机研究与发展 (Journal of Computer Research and Development)** | **2026** | **CCF-A** | [Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202660319) 
 </div>
 </div>
 
